@@ -7,3 +7,5 @@ jobs:
     steps:
       - name: Amazing Script
         run: echo "Hello"
+      - name: Another Amazing Script
+        run: echo "World"

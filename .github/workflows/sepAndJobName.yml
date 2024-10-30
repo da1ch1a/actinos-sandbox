@@ -9,3 +9,4 @@ jobs:
         run: echo "Hello"
       - name: Another Amazing Script
         run: echo "World"
+      - run: echo "Hello again"
